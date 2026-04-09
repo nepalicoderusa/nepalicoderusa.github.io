@@ -459,19 +459,7 @@
       ══ END TEMPLATE ══ -->
 
     </div>
-    
-    <div class="apps-grid" id="appsGrid">
-
-      <!-- ── App 1: Holy Bible KJV ── -->
-      <div class="app-card">
-        <p>special thanks to:</p>
-          <ul>
-            <li> Aayam </li>
-            <li> Unish </li>
-            <li> Santosh </li>
-          </ul>
-        
-    </div>
+  
   </main>
   
   <footer>
