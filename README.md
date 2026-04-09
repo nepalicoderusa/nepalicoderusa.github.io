@@ -462,6 +462,37 @@
   
   </main>
   
+  <section style="padding: 0 1.5rem 3rem; max-width: 900px; margin: 0 auto;">
+  <p class="section-label">Special Thanks</p>
+  <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+
+    <div style="display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.75rem 1.1rem;">
+      <div style="width: 36px; height: 36px; border-radius: 50%; background: #E8F4EB; color: #1D4E2A; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0;">AA</div>
+      <div>
+        <div style="font-size: 0.9rem; font-weight: 500;">Aaayam</div>
+        <div style="font-size: 0.75rem; color: var(--text-muted);">Early supporter</div>
+      </div>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.75rem 1.1rem;">
+      <div style="width: 36px; height: 36px; border-radius: 50%; background: #E8F4EB; color: #1D4E2A; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0;">UN</div>
+      <div>
+        <div style="font-size: 0.9rem; font-weight: 500;">Unish</div>
+        <div style="font-size: 0.75rem; color: var(--text-muted);">Early supporter</div>
+      </div>
+    </div>
+
+    <div style="display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.75rem 1.1rem;">
+      <div style="width: 36px; height: 36px; border-radius: 50%; background: #E8F4EB; color: #1D4E2A; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0;">SA</div>
+      <div>
+        <div style="font-size: 0.9rem; font-weight: 500;">Santosh</div>
+        <div style="font-size: 0.75rem; color: var(--text-muted);">Early supporter</div>
+      </div>
+    </div>
+
+  </div>
+</section>
+  
   <footer>
     Built by <a href="https://play.google.com/store/apps/dev?id=com.nepalicoder" target="_blank" rel="noopener">NepaliCoder</a> &mdash; independent Android developer
   </footer>
