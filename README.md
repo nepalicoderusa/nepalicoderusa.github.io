@@ -340,7 +340,7 @@
 </head>
 <body>
   <div class="hero">
-    <h1>Apps built with<br /><em>purpose &amp; care</em></h1>
+    <h1>Apps built with <em>purpose &amp; care</em></h1>
     <p>Independent apps for Android — simple, focused, and offline-first. Scan the QR code or tap to get started.</p>
   </div>
 
