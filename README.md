@@ -469,7 +469,7 @@
     <div style="display: flex; align-items: center; gap: 10px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.75rem 1.1rem;">
       <div style="width: 36px; height: 36px; border-radius: 50%; background: #E8F4EB; color: #1D4E2A; display: flex; align-items: center; justify-content: center; font-size: 13px; font-weight: 500; flex-shrink: 0;">AA</div>
       <div>
-        <div style="font-size: 0.9rem; font-weight: 500;">Aaayam</div>
+        <div style="font-size: 0.9rem; font-weight: 500;">Aayam</div>
         <div style="font-size: 0.75rem; color: var(--text-muted);">Early supporter</div>
       </div>
     </div>
