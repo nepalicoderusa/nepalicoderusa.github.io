@@ -459,8 +459,21 @@
       ══ END TEMPLATE ══ -->
 
     </div>
-  </main>
+    
+    <div class="apps-grid" id="appsGrid">
 
+      <!-- ── App 1: Holy Bible KJV ── -->
+      <div class="app-card">
+        <p>special thanks to:</p>
+          <ul>
+            <li> Aayam </li>
+            <li> Unish </li>
+            <li> Santosh </li>
+          </ul>
+        
+    </div>
+  </main>
+  
   <footer>
     Built by <a href="https://play.google.com/store/apps/dev?id=com.nepalicoder" target="_blank" rel="noopener">NepaliCoder</a> &mdash; independent Android developer
   </footer>
